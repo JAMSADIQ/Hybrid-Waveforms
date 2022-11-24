@@ -1,2 +1,3 @@
 # Hybrid-Waveforms
-Project on hybridizing precessing waveforms for BBH systems
+Project on hybridizing precessing waveforms for BBH systems.
+
